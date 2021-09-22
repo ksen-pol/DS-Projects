@@ -23,4 +23,4 @@ seaborn, sklearn, catboost, lightgbm, statsmodels и др.
 
 Контакты: +79513173558, почта ksen-pol@yandex.ru
 
-Ксения
+С уважением, Ксения
